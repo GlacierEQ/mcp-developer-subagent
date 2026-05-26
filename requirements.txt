@@ -26,7 +26,7 @@ mypy==1.7.1              # Type checking
 coverage==7.3.2          # Coverage analysis
 
 # Security and monitoring (optional)
-cryptography==41.0.8     # For enhanced security features
+cryptography==46.0.7     # For enhanced security features
 psutil==5.9.6           # System monitoring for preventive debugging
 requests==2.31.0         # HTTP client for webhooks/monitoring
 
